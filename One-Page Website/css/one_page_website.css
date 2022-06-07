@@ -1,0 +1,29 @@
+h1, h2, h3 {
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+#contact {
+    background-color: #00d636;
+}
+
+.info input[type="text"] {
+    width: 60%;
+    padding: 10px;
+    border: solid 2px #00d636;
+    border-radius: 8px;
+    margin: 0px auto;
+    background-color: rgba(0, 0, 0, 0.3);
+    box-shadow: -1px -1px -1px 0 rgba(0, 0, 0, 0.1), 1px 2px 10px 0 rgba(0, 0, 0, 0.5);
+}
