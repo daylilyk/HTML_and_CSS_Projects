@@ -1,9 +1,9 @@
 # HTML and CSS Projects
 This is a display of the projects and websites I have made during my time at The Tech Academy.
 ## Projects
- - [Daylily Kiousis Portfolio](https://github.com/daylilyk/HTML_and_CSS_Projects/tree/main/Portfolio)
+ - [Daylily Kiousis Portfolio](https://github.com/daylilyk/daylilyk.github.io)
  - [Space Hotel Site](https://github.com/daylilyk/HTML_and_CSS_Projects/tree/main/Website_Creation)
- - [Atalko Art (work-in-progress](https://github.com/daylilyk/HTML_and_CSS_Projects/tree/main/One-Page%20Website)
+ - [Atalko Art (work-in-progress)](https://github.com/daylilyk/HTML_and_CSS_Projects/tree/main/One-Page%20Website)
  - [Movie Theatre Site](https://github.com/daylilyk/HTML_and_CSS_Projects/tree/main/bootstrap4_project)
 
  ### Daylily Kiousis Profile
